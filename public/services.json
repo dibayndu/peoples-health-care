@@ -1,0 +1,53 @@
+[
+    {
+    "id":1,
+    "name":"Find a Consultant",
+    "price": "null",
+    "time":"Regular",
+    "img":"https://i.ibb.co/yVzLRXb/find-doctor-online.jpg",
+    "description":"Here you will find some background information and contact details for your consultant."
+},
+    {
+    "id":2,
+    "name":"Doctor Appointments", 
+    "price": "1200", 
+    "time":"Regular", 
+    "img":"https://i.ibb.co/ZStfdY4/appointment.jpg",
+    "description":"Ask for an appointment of the doctor quickly with almost a single click. We take care of the rest."
+},
+    {
+    "id":3, 
+    "name":"Diagnostic Report",
+    "price": "2500", 
+    "time":"Regular", 
+    "img":"https://i.ibb.co/d0hvt3S/diagnostic.jpg",
+    "description":"A diagnostic report is the set of information that is typically provided by a diagnostic service."
+},
+    {
+    "id":4, 
+    "name":"Ambulance Service", 
+    "price": "3200", 
+    "time":"Regular", 
+    "img":"https://i.ibb.co/s6yccHJ/ambulance.jpg",
+    "description":"Standard Ambulance with Proper equipment Stretchers are available to carrying the patient."
+},
+    {
+    "id":5, 
+    "name":"Tele-Medicine", 
+    "price": "800", 
+    "time":"Regular", 
+    "img":"https://i.ibb.co/34fFzMw/tele-medicine.jpg",
+    "description":"Telemedicine refers to the provision of remote clinical services, via real-time two-way communication."
+},
+    {
+    "id":6, 
+    "name":"Covid Test", 
+    "price": "3000", 
+    "time":"Regular", 
+    "img":"https://i.ibb.co/XJN4BHR/covid-test.jpg",
+"description":"To maximize protection from the Delta variant and prevent possibly spreading it to others, get vaccinated."
+}
+
+]
+   
+    
